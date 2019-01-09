@@ -1,0 +1,44 @@
+body {
+    margin: 0 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.background {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 570px;
+    height:100vh;
+    background-image: url("../img/background.jpg");
+    margin: 0;
+}
+
+.full {
+	min-height: 100%; 
+    min-width: 100%;
+}
+
+#home-margin-container {
+    position:relative;
+    height:25%;
+}
+
+
+#hello-container {
+	font-family: 'Cormorant', bold;
+	font-weight: 800;
+	color:white;
+	font-size: 3.5em;
+	animation-duration: 1.5s;
+}
+
+#type-writer {
+    /*font-family: 'Berkshire Swash', bold; */
+    font-family: 'Cormorant', bold;
+    font-weight: 800;
+    color: gold;
+    font-size: 3.5em;
+}
+
