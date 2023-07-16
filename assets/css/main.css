@@ -232,6 +232,9 @@ button:focus {
   background: #CE332A;
 }
 
+.social-icon li .substack:hover {
+  background: #CE332A;
+}
 /* ScrollToTop */
 a.back-to-top {
   display: none;
